@@ -1,0 +1,6 @@
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\TurtleSim.csproj.CoreCompileInputs.cache
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\bin\Debug\TurtleSim.exe
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\bin\Debug\TurtleSim.pdb
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\TurtleSim.csprojResolveAssemblyReference.cache
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\TurtleSim.exe
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\TurtleSim.pdb

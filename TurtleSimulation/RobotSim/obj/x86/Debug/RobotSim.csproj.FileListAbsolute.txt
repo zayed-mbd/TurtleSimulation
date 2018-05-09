@@ -1,0 +1,6 @@
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\bin\Debug\RobotSim.exe
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\bin\Debug\RobotSim.pdb
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\RobotSim.csprojResolveAssemblyReference.cache
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\RobotSim.csproj.CoreCompileInputs.cache
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\RobotSim.exe
+C:\Users\Zayed\Downloads\RobotSim-master2\RobotSim-master\RobotSim\obj\x86\Debug\RobotSim.pdb
